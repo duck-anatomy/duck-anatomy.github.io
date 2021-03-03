@@ -7,7 +7,7 @@ layout: home
 <h3>Who I am ?</h3>
 
 Hello, my name is Armelle Bauer and I'm a doctor of computer science. Nice to meet you! <br/>
-With a computer graphics background, my main interests relate to real‑time, characters animation, interactions and crowds behaviors, mixed reality, AI algorithms. <br/>
+With a computer graphics background, my main interests relate to real‑time, characters animation, interactions and crowds behaviors, mixed reality, AI algorithms.
 Highly motivated I am looking to create and work on intuitive, innovative and disruptive tools.
 
 I'm curious and like to experiment, look at different technologies and play with them.
