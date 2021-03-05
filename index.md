@@ -29,5 +29,3 @@ In the end, to have a fulfilling life, you need to do a job that you like, that 
 This website is a way to present myself outside the CV framework.
 I hope you will enjoy going through the different parts of it as much as I enjoyed myself experimenting on it.
 You will learn more about me, my work, and what matters to me.
-
-<span class="highlight text-center ">... more coming soon ...</span>
