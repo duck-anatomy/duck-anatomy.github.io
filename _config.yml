@@ -9,7 +9,12 @@ plugins:
   - jekyll-seo-tag
 
 # Google services
-google_analytics: G-HR0BEM66DV
+# Analytics
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: G-HR0BEM66DV
+    anonymize_ip: true
 
 # Site Author
 author:
