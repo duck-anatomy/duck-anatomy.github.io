@@ -13,7 +13,7 @@ plugins:
 analytics:
   provider: "google-universal"
   google:
-    tracking_id: G-HR0BEM66DV
+    tracking_id: UA-191026714-1
     anonymize_ip: true
 
 # Site Author
