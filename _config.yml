@@ -1,7 +1,7 @@
 
 title: Duck Anatomy
 description: >-
-  Dr Armelle Bauer, R&D Software Engineer, Computer Graphics, real-time, animation, interaction, mixed reality, C++, Python, AI, software architecture.
+  Dr Armelle Bauer, R&D Software Engineer, Computer Graphics, real-time, animation, interaction, virtual humans, mixed reality, C++, Python, AI, software architecture.
 
 # Build settings
 plugins:
@@ -25,4 +25,7 @@ links:
     url: "https://github.com/duck-anatomy"
   - label: "LinkedIn"
     icon: "fa-linkedin"
-    url: "https://www.linkedin.com/in/armelle-bauer-5030a973"
+    url: "https://www.linkedin.com/in/armelle-bauer"
+  - label: "Twitter"
+    icon: "fa-twitter"
+    url: "https://twitter.com/armellebauer"
